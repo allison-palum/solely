@@ -1,0 +1,39 @@
+body {
+  text-align: center;
+}
+
+header {
+  margin-bottom: 30px;
+}
+
+.primary-nav {
+  margin-bottom: 30px;
+}
+
+.primary-nav .nav-links a {
+  cursor: pointer;
+}
+
+.solely-dark-link {
+  padding-right: 30px;
+}
+
+.solely-link {
+  padding-right: 30px;
+}
+
+.solely-light-link {
+  padding-right: 0px;
+}
+
+.active {
+  text-decoration: underline;
+}
+
+.playlist-wrap {
+  display: none;
+}
+
+.show {
+  display: inline-block;
+}
